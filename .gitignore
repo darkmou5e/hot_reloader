@@ -1,0 +1,12 @@
+.cpcache
+.nrepl-port
+*.beam
+
+.venv
+*.pyc
+
+example.py
+
+*.log
+
+.DS_Store
